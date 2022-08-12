@@ -1,0 +1,9 @@
+.sideBarLinks{
+  >li{
+    @apply px-4 py-2 flex items-center justify-between hover:bg-stone-100 rounded-lg hover:cursor-pointer text-opacity-100;
+    color: rgb(83,99,135);
+  }
+}
+.title{
+    @apply px-4 text-sm font-semibold uppercase mb-4;
+  }

@@ -1,0 +1,7 @@
+.myBtn{
+  @apply bg-slate-300 mb-2 px-5 rounded-b-lg transition-all
+  hover:bg-slate-500 hover:text-white
+  active:bg-red-600 
+  focus:bg-yellow-400 focus:opacity-70 focus:text-white
+  
+}

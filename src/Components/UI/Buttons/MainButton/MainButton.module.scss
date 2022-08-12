@@ -1,0 +1,11 @@
+.mainBtn{
+  @apply bg-orange-400 pt-1 px-4 text-white transition-colors m-1 rounded-md
+  hover:bg-orange-300 
+  focus:shadow-md focus:border-b-4
+;
+  // background: orange;
+  // margin: 10px;
+  // border-radius: 5px;
+  // padding: 5px 10px;
+  // border-bottom: 5px solid white;
+}
